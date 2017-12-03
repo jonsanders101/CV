@@ -16,30 +16,30 @@ As a professional tutor, I have developed acute communication skills. I have a s
 #### Project Management & Delivery
 During Makers Academy, I developed skills for effective collaborative work on software projects. In our first group project, I contributed to creating a robust, clear git workflow which was then adopted by other teams. I established the use of an [integration token](http://wiki.c2.com/?IntegrationToken) to make continuous integration easier for the group to manage. We also used passing the integration token as a focal point for celebrating individual successes, which raised the group's morale. I also established a pattern of structuring team retros around the five XP values, which made our discussions more concise and constructive.
 
-In my previous role, I led a team of seven in delivering an internship programme for King’s College London students. I used the team’s reporting data from previous programmes as well as frequent, verbal feedback to create a new workflow for the team which standardised processes and harmonised the team’s varied work. This involved me overseeing the introduction a new student experience software solution to the team. Against the previous programme cycle, this resulted in increases in satisfaction rates from employers and students (to 100% and 94% respectively), 14 new employer partnerships secured and over 50 hours more contact time with students to enhance their employability.
+In my previous role, I led a team of seven in delivering an internship programme for King’s College London students. I used the team’s reporting data from previous programmes as well as frequent, verbal feedback to create a new workflow for the team which standardised processes and harmonised the team’s varied work. This involved me overseeing the introduction of a new student experience software solution to the team. Against the previous programme cycle, this resulted in increases in satisfaction rates from employers and students (to 100% and 94% respectively), 14 new employer partnerships secured and over 50 hours more contact time with students to enhance their employability.
 
 ## Education
 #### Makers Academy (September 2017 to December 2017)
 
-Makers Academy is a 16 week, immersive course in software development. Projects and skills I have worked on include:
+Makers Academy is a 16 week, immersive course in software development. Projects and skills I have worked on in this time include:
 
-- CRUD applications in Ruby and PostGreSQL, using both Sinatra and Rails
-- Single-page web applications in vanilla JavaScript
-- A command-line helper tool in Node.js
-- Object Oriented Design and SOLID principles
-- Test and Behaviour Driven Development
-- Group projects using Agile and XP methodologies
-- HTML, CSS, jQuery, Bootstrap
+- CRUD applications in Ruby and PostGreSQL, using both Sinatra and Rails;
+- Single-page web applications in vanilla JavaScript;
+- A command-line tool in Node.js to support beginners using git;
+- Object Oriented Design and SOLID principles;
+- Test and Behaviour Driven Development;
+- Group projects using Agile and XP methodologies;
+- HTML, CSS, jQuery, Bootstrap.
 
-I chose to study at Makers Academy to begin my career as a developer due to the rigorously collaborative nature of the course. I have already demonstrated I am an effective independent learner through my degree and early self-teaching in Java – at Makers, I sought to become a professional team-player who can translate their independent knowledge and skills into shared value.
+I chose to study at Makers Academy to begin my career as a developer due to the rigorously collaborative nature of the course. I have already demonstrated I am an effective independent learner through my undergraduate degree and early self-teaching in Java – at Makers Academy, I sought to become a professional team-player who can translate their independent knowledge and skills into shared value.
 
 #### University of Oxford, Oriel College (2011 – 2015)
 - English Language and Literature
 - 1st Class
-- Final mark placed in the 10% of my year group
+- Final mark placed in the top 10% of my year group
 - Took part in Student Consultancy project for a Five-a-Side Football Social Enterprise
 - Elected Returning Officer for college and Faculty Representative
-- Acting in and directed several plays
+- Acted-in and directed several plays
 #### A Levels
 - Mathematics: A*
 - English Literature: A*
