@@ -24,6 +24,24 @@ In my previous role, I led a team of seven in delivering an internship programme
 
 Makers Academy is a 16 week, immersive course in software development. Projects and skills I have worked on in this time include:
 
+##### Example Projects
+
+| Name | Description | Tools | Links
+| ----------- | ----------- | ---- | ----
+| Neighbour.ly | A real-time messaging app that allows users to communicate with their neighbours. | Go lang, ReactJS, websockets, Google Maps API | [Front-end Repo](https://github.com/jonsanders101/neighbourly-app) - [Server-side Repo](https://github.com/jonsanders101/neighbourly) - [Final Presentation](https://www.youtube.com/watch?v=d4rj_BwOWuI)
+| Gilded Rose | My solution to this well-known refactoring kata. | JavaScript | [Repo](https://github.com/jonsanders101/gilded-rose-js)
+| GitHead  | A command-line tool that wraps around git commands, offering new git users helpful prompts. | Node, Inquirer |[Repo](https://github.com/jonsanders101/githead) - [NPM](https://www.npmjs.com/package/githead-helper)
+| Bowling Scorecard  | Calculates bowling scores with a simple browser interface | JavaScript, jQuery | [Repo](https://github.com/jonsanders101/bowling-challenge)
+
+Other projects and skills I have worked on at Makers Academy includes:
+
+- CRUD applications in Ruby and PostGreSQL, using both Sinatra and Rails;
+- Single-page web applications in vanilla JavaScript;
+- Object Oriented Design and SOLID principles;
+- Test and Behaviour Driven Development;
+- Group projects using Agile and XP methodologies;
+- HTML, CSS, jQuery, Bootstrap.
+
 - CRUD applications in Ruby and PostGreSQL, using both Sinatra and Rails;
 - A messaging app written in ReactJS and Go lang;
 - Single-page web applications in vanilla JavaScript;
