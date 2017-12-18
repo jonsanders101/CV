@@ -22,7 +22,7 @@ In my previous role, I led a team of seven in delivering an internship programme
 ## Education
 #### Makers Academy (September 2017 to December 2017)
 
-Makers Academy is a 16 week, immersive course in software development. Projects and skills I have worked on in this time include:
+Makers Academy is a 16 week, immersive course in software development.
 
 ##### Example Projects
 
@@ -37,15 +37,6 @@ Other projects and skills I have worked on at Makers Academy includes:
 
 - CRUD applications in Ruby and PostGreSQL, using both Sinatra and Rails;
 - Single-page web applications in vanilla JavaScript;
-- Object Oriented Design and SOLID principles;
-- Test and Behaviour Driven Development;
-- Group projects using Agile and XP methodologies;
-- HTML, CSS, jQuery, Bootstrap.
-
-- CRUD applications in Ruby and PostGreSQL, using both Sinatra and Rails;
-- A messaging app written in ReactJS and Go lang;
-- Single-page web applications in vanilla JavaScript;
-- A command-line tool in Node.js to support beginners using git;
 - Object Oriented Design and SOLID principles;
 - Test and Behaviour Driven Development;
 - Group projects using Agile and XP methodologies;
