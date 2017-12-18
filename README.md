@@ -24,7 +24,7 @@ In my previous role, I led a team of seven in delivering an internship programme
 
 Makers Academy is a 16 week, immersive course in software development.
 
-##### Example Projects
+Example Projects:
 
 | Name | Description | Tools Used | Links
 | ----------- | ----------- | ---- | ----
