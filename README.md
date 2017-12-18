@@ -1,22 +1,23 @@
 ## Jon Sanders
-I am seeking a role as a Junior Developer in a setting where I will be able to apply and develop my new technical skills. My career change is motivated by the joy and curiosity I have found in code and by a desire to do work which makes a demonstrable impact. The coding community has ignited my enthusiasm by demonstrating what I can achieve; I am inspired to contribute to and learn from it as I develop my craft.
+I am seeking a role as a Junior Developer in a setting where I will be able to apply and develop my new technical skills. My career change is motivated by the joy and curiosity I have found in code and by a desire to do work which makes a clear impact. The coding community has ignited my enthusiasm by demonstrating what I can achieve; I am inspired to contribute to and learn from it as I develop my craft.
 ## Skills
 
 #### Community Building & Networking
-I was made chair of the LGBT+ Staff Network alongside my main role at King’s College London, representing the LGBT+ community within a total workforce of over 7,000. I am convinced of the value of being able to be ones whole self at work and launched initiatives that would make this possible for diverse colleagues with diverse needs. I oversaw a 120% increase in membership to the network and secured £5,000 in additional funding to support future activities.
 
-Since choosing to become a developer, I have embraced the tech community and have attended many meet-ups and talks on a range of code-related topics. I recently gave a lightning talk on code-learning practises at a 'Queer Code London' event, and attended a 'Global Day of Coderetreat' where I practised TDD in various languages with a mixture of junior and senior developers. I enjoy making connections and sharing experiences to enhance mine and others’ learning, and foresee feeding this value back into any organisation I am developing for.
+I have embraced the tech community by attending many meet-ups and talks. I recently gave a lightning talk on code-learning practises at a 'Queer Code London' event, and attended a 'Global Day of Coderetreat' where I practised TDD in various languages with a mixture of junior and senior developers. I enjoy making connections and sharing experiences to enhance mine and others’ learning, and foresee feeding this value back into any organisation I am developing for.
+
+I was made chair of the LGBT+ Staff Network alongside my main role at King’s College London, representing the LGBT+ community within a total workforce of over 7,000. I am convinced of the value of being able to be ones whole self at work and launched initiatives that would make this possible for diverse colleagues with diverse needs.
 
 #### Communication
 
-At Makers Academy, the majority of the curriculum is taught through pair programming and group project work. This allowed me to draw upon and develop my communication skills, preparing me to be an effective collaborator in my career as a developer. Throughout the course, I have frequently received feedback that I am skilled at articulating my thought processes and my approach to solving problems, and that I make valuable contributions to group retros.
+Makers Academy is taught through pair programming and group project work, which allowed me to draw on and develop my communication skills, preparing me to be an effective collaborator in my career as a developer. Throughout the course, I have frequently received feedback that I am skilled at articulating my thought processes and my approach to solving problems, and that I make valuable contributions to group retros.
 
-As a professional tutor, I have developed acute communication skills. I have a strong record of success across a range of subjects, including Maths, Thinking Skills, dyslexia support and Psychometric Testing. Through conversation, I am able to navigate through abstract material with a client to diagnose the cause of their misunderstanding with a topic, then work to resolve this with patience and emotional intelligence.
+As a professional tutor, I developed acute communication skills. I have a strong record of success across a range of subjects, due in part to my ability to discuss abstract concepts with clarity, and to resolve issues with patience and emotional intelligence.
 
 #### Project Management & Delivery
-During Makers Academy, I developed skills for effective collaborative work on software projects. In our first group project, I contributed to creating a robust, clear git workflow which was then adopted by other teams. I established the use of an [integration token](http://wiki.c2.com/?IntegrationToken) to make continuous integration easier for the group to manage. We also used passing the integration token as a focal point for celebrating individual successes, which raised the group's morale. I also established a pattern of structuring team retros around the five XP values, which made our discussions more concise and constructive.
+I have been praised for my leadership style, which is both warm and results-driven. In our first group project at Makers Academy, I contributed to creating a robust, clear git workflow which was then adopted by other teams. I established the use of an [integration token](http://wiki.c2.com/?IntegrationToken) to make continuous integration easier for the group to manage. We also used passing the integration token as a focal point for celebrating individual successes, which raised the group's morale.
 
-In my previous role, I led a team of seven in delivering an internship programme for King’s College London students. I used the team’s reporting data from previous programmes as well as frequent, verbal feedback to create a new workflow for the team which standardised processes and harmonised the team’s varied work. This involved me overseeing the introduction of a new student experience software solution to the team. Against the previous programme cycle, this resulted in increases in satisfaction rates from employers and students (to 100% and 94% respectively), 14 new employer partnerships secured and over 50 hours more contact time with students to enhance their employability.
+In my previous role, I led a team of seven in delivering an internship programme for King’s College London students. I used the team’s reporting data from previous programmes as well as frequent, verbal feedback to create a new workflow for the team which standardised processes and harmonised the team’s varied work. Against the previous programme cycle, this resulted in increases in satisfaction rates from employers and students (to 100% and 94% respectively), 14 new employer partnerships secured and over 50 hours more contact time with students to enhance their employability.
 
 ## Education
 #### Makers Academy (September 2017 to December 2017)
@@ -24,6 +25,7 @@ In my previous role, I led a team of seven in delivering an internship programme
 Makers Academy is a 16 week, immersive course in software development. Projects and skills I have worked on in this time include:
 
 - CRUD applications in Ruby and PostGreSQL, using both Sinatra and Rails;
+- A messaging app written in ReactJS and Go lang;
 - Single-page web applications in vanilla JavaScript;
 - A command-line tool in Node.js to support beginners using git;
 - Object Oriented Design and SOLID principles;
