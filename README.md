@@ -26,9 +26,9 @@ Makers Academy is a 16 week, immersive course in software development.
 
 ##### Example Projects
 
-| Name | Description | Tools | Links
+| Name | Description | Tools Used | Links
 | ----------- | ----------- | ---- | ----
-| Neighbour.ly | A real-time messaging app that allows users to communicate with their neighbours. | Go lang, ReactJS, websockets, Google Maps API | [Front-end Repo](https://github.com/jonsanders101/neighbourly-app) - [Server-side Repo](https://github.com/jonsanders101/neighbourly) - [Final Presentation](https://www.youtube.com/watch?v=d4rj_BwOWuI)
+| Neighbour.ly | A real-time messaging app that allows users to communicate with their neighbours. | Go lang, ReactJS, WebSocket, Google Maps API | [Front-end Repo](https://github.com/jonsanders101/neighbourly-app) - [Server-side Repo](https://github.com/jonsanders101/neighbourly) - [Final Presentation](https://www.youtube.com/watch?v=d4rj_BwOWuI)
 | Gilded Rose | My solution to this well-known refactoring kata. | JavaScript | [Repo](https://github.com/jonsanders101/gilded-rose-js)
 | GitHead  | A command-line tool that wraps around git commands, offering new git users helpful prompts. | Node, Inquirer |[Repo](https://github.com/jonsanders101/githead) - [NPM](https://www.npmjs.com/package/githead-helper)
 | Bowling Scorecard  | Calculates bowling scores with a simple browser interface | JavaScript, jQuery | [Repo](https://github.com/jonsanders101/bowling-challenge)
